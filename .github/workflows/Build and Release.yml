@@ -3,6 +3,9 @@ name: Build and Release
 on:
   workflow_dispatch:
     inputs:
+      SPOTVER:
+        description: 'Spotify Version'
+        required: true
       SPOTURL:
         description: 'Direct URL to Spotify .ipa'
         required: true
