@@ -1,4 +1,8 @@
 # SpotC++
+# DO NOT USE THIS REPO!!
+Don't use this repo to download SpotifyC++ it is used only to compile for me.   
+If you want to compile SpotifyC++ for you fork below repo and compile using github actions.    
+repo: SpotCompiled/SpotC-plus-plus   
 <h1 align="center">
 
 ![GitHub all releases](https://img.shields.io/github/downloads/SpotCompiled/SpotC-Plus-Plus/total?label=Downloads&style=for-the-badge) 
